@@ -147,6 +147,4 @@ Open.place(x=2*X,y=Y-35)
 Close = Button(root,text=")",font=("Courier New",16,"bold"),padx = 20,pady = 6,bd = 4,bg="light yellow",command=lambda:insert(")"))
 Close.place(x=3*X,y=Y-35)
 
-######################################################################################################
-
 root.mainloop()
